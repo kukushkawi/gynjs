@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: IBM Plex Sans, Roboto, Arial, Helvetica, sans-serif;
+    min-width: 400;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+    border: 1px solid #5f9341;
+}
+
+button {
+    background: #5f9341;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid #5f9341;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+ul {
+    margin-top: 20px;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+    list-style-type: none;
+}
+
+li a {
+    color: #5f9341;
+}
+
+#delete-btn {
+    background: none;
+    color: #5f9341;
+}
